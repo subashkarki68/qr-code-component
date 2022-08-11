@@ -1,0 +1,40 @@
+body {
+    background-color: hsl(212, 45%, 89%);
+    font-family: 'Outfit', sans-serif;
+    font-size: 15px;
+}
+
+.card-container {
+    margin: 20px 0;
+}
+
+.card {
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 1.33em;
+    margin: auto;
+    width: 350px;
+}
+
+.card-components {
+    padding: 1.33em;
+}
+
+.qr-holder img {
+    border-radius: 0.67em;
+    width: 100%;
+}
+
+.text-holder {
+    text-align: center;
+    padding: 0 0.33em;
+}
+
+.text-holder .head {
+    font-weight: 700;
+    font-size: 1.6em;
+}
+
+.text-holder .info {
+    font-size: 1.2em;
+    color: hsl(220, 15%, 55%);
+}
